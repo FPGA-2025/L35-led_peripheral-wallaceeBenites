@@ -1,0 +1,5 @@
+WARNING: Memory.v:23: $readmemh(programa.txt): Not enough words in the file for the requested range [0:63].
+VCD info: dumpfile saida.vcd opened for output.
+Test case: 0011, Expected LEDs: 00000000, Expected Memory: 00000005
+Teste de escrita independente na memória...
+=== OK Escrita na memória passou: obtive 00000005

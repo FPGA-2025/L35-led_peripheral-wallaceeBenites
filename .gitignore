@@ -1,0 +1,8 @@
+tb
+*/test/*.out
+*.vcd
+.DS_Store
+build/
+saida.out
+*.out
+gabarito

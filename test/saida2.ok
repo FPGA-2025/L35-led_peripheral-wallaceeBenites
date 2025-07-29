@@ -1,0 +1,4 @@
+WARNING: Memory.v:23: $readmemh(programa.txt): Not enough words in the file for the requested range [0:63].
+VCD info: dumpfile saida.vcd opened for output.
+Teste de leitura dos LEDS seguido de escrita na memória...
+=== OK Leitura dos LEDs passou: obtive 000000aa
